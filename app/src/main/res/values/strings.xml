@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guia De Bolso Português/Inglês</string>
+    <string name="descSaudacao">Botão de Saudação</string>
+    <string name="descHello">Duas pessoes se saudando</string>
+    <string name="usoHelloUS">Hello! How are you doing?</string>
+    <string name="usoHelloPtBr">Olá Como vai você?</string>
+    <string name="desFamiliares">Botão Familiares em ingles</string>
+    <string name="title_activity_grandfather">GrandfatherActivity</string>
+    <string name="usoGrandfatherUS">How old is your Grandfather?</string>
+    <string name="usoGrandfatherPtBr">Qual a idade do seu avô?</string>
+    <string name="descNumbers">Botão para numeros em ingles</string>
+    <string name="usoNumbersUS">I have four finger, Im Lula! </string>
+    <string name="usoNumberPtBr">Eu tenho quatro dedos, eu sou o Lula!</string>
+    <string name="descXP">Botao de expressoes comuns</string>
+    <string name="usoXpUS">“For goodness’ sake, hurry up!”</string>
+    <string name="usoXpPtBr">“Pelo amor de Deus, se apresse!”</string>
+</resources>
